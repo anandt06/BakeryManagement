@@ -6,6 +6,7 @@ using InterviewChallenge.API.Infrastructure.Data;
 using InterviewChallenge.API.Infrastructure.Data.Data.Repository;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.OpenApi.Models;
+
 namespace InterviewChallenge.API
 {
     internal class Startup
